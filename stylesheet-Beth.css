@@ -12,11 +12,8 @@ h2 {
   background-color:#14e3c7;
 }
 
-div {
-    width: 35px;
-    height: 5px;
-    background-color: black;
-    margin: 6px 0;
+.jumbotron {
+    background-color:#14e3c7!important;
 }
 
 * {box-sizing:border-box}
