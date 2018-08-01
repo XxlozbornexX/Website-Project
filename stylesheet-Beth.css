@@ -12,8 +12,8 @@ h2 {
   background-color:#14e3c7;
 }
 
-.jumbotron {
-    background-color:#14e3c7!important;
+.jumbotron-title {
+    background-color:#14e3c7;
 }
 
 * {box-sizing:border-box}
