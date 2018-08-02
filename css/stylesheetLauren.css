@@ -1,4 +1,4 @@
-<style>
+
 .footer {
   position: fixed;
   left: 0;
@@ -8,11 +8,17 @@
   color: white;
   text-align: center;
 }
-</style>
+p {
+  top: 50%;
+  vertical-align: middle;
+  position: absolute;
+  
+}
 
-<div class="footer">
-<p>Footer</p>
-</div>
+.row {
+  padding: 25px;
+}
+
 
 body {
 
