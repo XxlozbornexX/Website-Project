@@ -1,3 +1,19 @@
+<style>
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: #14e3c7;
+  color: white;
+  text-align: center;
+}
+</style>
+
+<div class="footer">
+<p>Footer</p>
+</div>
+
 body {
 
 }
@@ -21,3 +37,85 @@ h4 {
 }
 /*
   * {box-sizing:border-box} */
+  body {
+
+  }
+  #heading {
+    padding-left: 20px;
+  }
+  h1 {
+    color:black;
+    font-family: 'Vodafone Rg';
+    background-color: #14e3c7;
+  }
+  h2 {
+    color:black;
+    font-family: 'Vodafone Rg';
+  }
+
+  h4 {
+    font-family: 'Vodafone Rg';
+    background-color: White;
+  }
+
+  .jumbotron-title {
+      background-color:#14e3c7;
+  }
+  /*
+    * {box-sizing:border-box} */
+
+  .snapchat-image {
+    max-width: 200px;
+  }
+
+  #bottom_jumbo {
+    padding-left: 225px;
+  }
+
+  /**
+ * Demo Styles
+ */
+
+html {
+  height: 100%;
+  box-sizing: border-box;
+}
+
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+}
+
+body {
+  position: relative;
+  margin: 0;
+  padding-bottom: 6rem;
+  min-height: 100%;
+  font-family: "Helvetica Neue", Arial, sans-serif;
+}
+
+.demo {
+  margin: 0 auto;
+  padding-top: 64px;
+  max-width: 640px;
+  width: 94%;
+}
+
+.demo h1 {
+  margin-top: 0;
+}
+
+/**
+ * Footer Styles
+ */
+
+.footer {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  padding: 1rem;
+  background-color: #14e3c7;
+  text-align: center;
+}

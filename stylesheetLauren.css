@@ -1,18 +1,21 @@
 body {
 
 }
+#heading {
+  padding-left: 20px;
+}
 h1 {
   color:black;
-  font-family: Vodafone Rg;
+  font-family: 'Vodafone Rg';
   background-color: #14e3c7;
 }
 h2 {
   color:black;
-  font-family:Vodafone Rg;
+  font-family: 'Vodafone Rg';
 }
 
 h4 {
-  font-family: Vodafone Rg;
+  font-family: 'Vodafone Rg';
   background-color: White;
 }
 
@@ -24,4 +27,8 @@ h4 {
 
 .snapchat-image {
   max-width: 200px;
+}
+
+#bottom_jumbo {
+  padding-left: 225px;
 }
