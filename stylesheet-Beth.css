@@ -76,3 +76,8 @@ padding: 1rem;
 background-color: #14e3c7;
 text-align: center;
 }
+
+* {
+  color:black;
+  font-family: Vodafone Rg;
+}
