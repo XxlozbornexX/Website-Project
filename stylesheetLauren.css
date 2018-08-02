@@ -21,3 +21,7 @@ h4 {
 }
 /*
   * {box-sizing:border-box} */
+
+.snapchat-image {
+  max-width: 200px;
+}
