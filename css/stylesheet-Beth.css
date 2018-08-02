@@ -1,0 +1,22 @@
+body {
+
+}
+h1 {
+  color:black;
+  font-family: Vodafone Rg;
+  background-color: #14e3c7;
+}
+h2 {
+  color:black;
+  font-family:Vodafone Rg;
+  background-color:#14e3c7;
+}
+
+h4 {
+  font-family: Vodafone Rg;
+  background-color: White;
+}
+
+.jumbotron-title {
+    background-color:#14e3c7;
+}
