@@ -17,6 +17,14 @@ h4 {
   background-color: White;
 }
 
-.jumbotron-title {
+.jumbotron {
     background-color:#14e3c7;
+}
+
+#bottom_jumbo {
+  padding-left: 225px;
+}
+
+#heading {
+  padding-left: 20px;
 }
